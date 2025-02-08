@@ -1,0 +1,44 @@
+/* Login Styles */
+.login-background {
+  background-image: url('../media/pexels-nick-rtr-1632308-3187173.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-card {
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  color: #fff;
+}
+
+.login-title {
+  font-family: 'Press Start 2P', cursive;
+  color: #ff4757;
+}
+
+/* Login Form Styles */
+.form-control {
+  background-color: #2e2e3f;
+  border: none;
+  color: #fff;
+}
+
+.form-control::placeholder {
+  color: #aaa;
+}
+
+/* Login Button Styles */
+.btn-primary {
+  background-color: #ff4757;
+  border: none;
+  transition: background-color 0.3s;
+}
+
+.btn-primary:hover {
+  background-color: #e84118;
+}
