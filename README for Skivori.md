@@ -11,11 +11,11 @@
 
 ## Specs
 
-<ins>Infrastructure</ins>: Google Cloud Platform
-<ins>Database</ins>: Postgresql
-<ins>Web app</ins>: ReactJs, Bootstrap
-<ins>Server</ins>: Node.js
-<ins>Third parties</ins>: images.ctfassets.net; api.exchangerate-api
+| <ins>Infrastructure</ins> | Google Cloud Platform |
+| <ins>Database</ins> | Postgresql |
+| <ins>Web app</ins> | ReactJs, Bootstrap |
+| <ins>Server</ins> | Node.js |
+| <ins>Third parties</ins> | images.ctfassets.net; api.exchangerate-api |
 
 ## Web app
 URL: https://casinoof8client-483704167851.europe-west3.run.app 
