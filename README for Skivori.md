@@ -37,22 +37,25 @@ Server source code url: https://github.com/IanPVassallo/casinoof8_server.git
 
 ## Instructions
 
-2. General Requirements
+2 General Requirements
 
 - The main authentication used on the web app is the onLogin() function which validates the request body via the REST api '/login' with username and pin. Refer to web app source code file 'Login.js'.
 - The app is built with mobile-first approach. If links are accessed via desktop make sure to set the appropriate Responsive Design Mode.
 
 2.1.1. Question 1
+
 https://casinoof8client-483704167851.europe-west3.run.app/dashboard
 
 Refer to Github for source code.
 
 2.1.2. Question 2
+
 https://casinoof8client-483704167851.europe-west3.run.app/dashboard
 
 Refer to Github for source code.
 
 2.1.3. Question 3
+
 https://casinoof8client-483704167851.europe-west3.run.app/FruitParty
 
 I created the slot machine game with the given specs. The game has been linked to one of the json list of games with title 'Fruit Party'. Click 'Play Now' to access the above link.
