@@ -11,6 +11,8 @@
 
 ## Specs
 
+| Module | Technology |
+| --- | --- |
 | <ins>Infrastructure</ins> | Google Cloud Platform |
 | <ins>Database</ins> | Postgresql |
 | <ins>Web app</ins> | ReactJs, Bootstrap |
