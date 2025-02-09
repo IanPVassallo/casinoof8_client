@@ -2,12 +2,12 @@
 
 ### Content List
 
-[Specs](#specs)
-[Web app](#web-app)
-[Server](#server)
-[GitHub](#github)
-[Instructions](#instructions)
-[AI Assistance](#ai-assistance)
+1. [Specs](#specs)
+2. [Web app](#web-app)
+3. [Server](#server)
+4. [GitHub](#github)
+5. [Instructions](#instructions)
+6. [AI Assistance](#ai-assistance)
 
 ## Specs
 
