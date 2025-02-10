@@ -1,0 +1,24 @@
+#####################################
+# App Engine Configuration
+#####################################
+
+# Runtime Configuration
+# Specifies Node.js 23 as the server runtime environment
+runtime: nodejs23
+
+# URL Handlers Configuration
+# Defines how incoming requests should be processed
+handlers:
+
+# Root Path Handler
+# Handles requests to the application root
+- url: /
+  # Serves the main React application entry point
+  static_files: build/index.html    # Location of built index.html
+  upload: build/index.html          # Upload path for deployment
+
+# Static Files Handler
+# Handles all other static asset requests
+- url: /
+  # Serves static files from the React build directory
+  static_dir: build    # Directory containing built assets
