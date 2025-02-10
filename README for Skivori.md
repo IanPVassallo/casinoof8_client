@@ -3,8 +3,9 @@
 ### Content List
 
 1. [Specs](#specs)
-2. [Web app](#web-app)
+2. [Web app](#web-app-client)
 3. [Server](#server)
+4. [Database](#database)
 4. [GitHub](#github)
 5. [Instructions](#instructions)
 6. [AI Assistance](#ai-assistance)
@@ -19,7 +20,7 @@
 | <ins>Server</ins> | Node.js |
 | <ins>Third parties</ins> | images.ctfassets.net; api.exchangerate-api |
 
-## Web app
+## Web app (Client)
 URL: https://casinoof8client-483704167851.europe-west3.run.app 
 
 Login player options:
@@ -30,6 +31,15 @@ Login player options:
 
 ## Server
 URL: https://casinoof8server-483704167851.europe-west3.run.app
+
+## Database
+```
+DB_PORT=5432
+DB_HOST=34.32.67.81
+DB_USER=postgres
+DB_PASSWORD=nckSY4%22
+DB_DATABASE=casinoof8_db
+```
 
 ## GitHub
 
